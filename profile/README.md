@@ -1,16 +1,19 @@
-# Enydra
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/enydra-logotipo-papel.svg">
+    <img alt="Enydra" src="./assets/enydra-logotipo-tinta.svg" width="240">
+  </picture>
+</p>
 
-Inteligência artificial aplicada a problemas reais de negócio.
+Consultoria técnica e desenvolvimento em inteligência artificial. Levamos modelos de machine learning do problema de negócio à operação, com rigor e evidência.
 
-## O que fazemos
+### O que fazemos
 
 - Automação de processos e workflows com IA
 - Desenvolvimento de software e modelos de machine learning
-- Consultoria técnica em projetos de P&D
+- Consultoria técnica para projetos de IA enquadrados na Lei do Bem
 - Treinamentos
 
-## Contato
+### Contato
 
-- Site: [enydra.com.br](https://enydra.com.br)
-- E-mail: [matheus@enydra.com.br](mailto:matheus@enydra.com.br)
-- LinkedIn: [linkedin.com/company/enydra](https://www.linkedin.com/company/enydra)
+[enydra.com.br](https://enydra.com.br) · [matheus@enydra.com.br](mailto:matheus@enydra.com.br) · [LinkedIn](https://www.linkedin.com/company/enydra)
